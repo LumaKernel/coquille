@@ -1,7 +1,7 @@
 *coquille.txt*		For Vim version 8.1	Last change: 2019 Dec 27
 
 Version: 2.0
-License: ISC License
+License: MIT License
 
 ==============================================================================
 CONTENTS				*coquille-contents*

@@ -192,7 +192,7 @@ Because pictures are always the best sellers :
 
 ## License
 
-[ISC License](https://www.isc.org/licenses/)
+MIT License
 
 
 ## Thanks
